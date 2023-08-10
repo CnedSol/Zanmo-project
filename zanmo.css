@@ -1,0 +1,243 @@
+p
+{  
+  font-family: 'Poppins', sans-serif;
+  margin: 0px;
+}
+
+.logo
+{
+margin-left: 20px;
+padding-top: 50px;
+}
+
+.word-div
+{
+margin-left: 70px;
+margin-top: 30px;
+}
+
+.creat-account
+{
+font-size: 30px;
+font-weight: 600;
+color: rgb(53, 53, 53);
+margin-bottom: 5px;
+}
+
+.get-started
+{
+margin-top: 3px;
+color: rgb(187, 191, 195);
+margin-bottom: 35px;
+}
+
+.username
+{
+margin-bottom: 1px;
+font-size: 13px;
+color: rgb(53, 53, 53);
+}
+
+.username-input
+{
+font-family: 'Font Awesome 5 Free';
+font-weight: 800;
+height: 40px;
+width: 500px;
+border-radius: 8px;
+padding-left: 25px;
+border-color: rgb(187, 191, 195);
+border-style: solid;
+font-size: 12px;
+font-weight: 100;
+margin-bottom: 1px;
+}
+
+.email
+{
+margin-bottom: 5px;
+margin-top: 5px;
+font-size: 13px;
+color: rgb(53, 53, 53);
+}
+
+.email-input
+{
+font-family: 'font awesome 5 free';
+height: 40px;
+width: 500px;
+border-radius: 8px;
+padding-left: 25px;
+border-color: rgb(187, 191, 195);
+border-style: solid;
+font-size: 12px;
+margin-top: 4px;
+}
+
+.password
+{
+margin-bottom: 1px;
+margin-top: 6px;
+font-size: 10px;
+color: rgb(53, 53, 53);
+font-size: 15px;
+}
+
+.password-input
+{
+font-family: 'font awesome 5 free';
+height: 40px;
+width: 500px;
+border-radius: 8px;
+padding-left: 25px;
+border-color: rgb(187, 191, 195);
+border-style: solid;
+font-size: 12px;
+margin-top: 4px;
+}
+
+.referral
+{
+margin-bottom: 1px;
+margin-top: 30px;
+font-size: 10px;
+color: rgb(53, 53, 53);
+font-size: 15px;
+}
+
+.referral-input
+{
+height: 30px;
+width: 500px;
+border-radius: 8px;
+padding-left: 25px;
+border-color: rgb(187, 191, 195);
+border-style: solid;
+font-size: 12px;
+margin-top: 4px;
+}
+
+.terms
+{
+color: rgb(53, 53, 53);
+font-size: 13px;
+margin-left: 15px;
+margin-top: 25px;
+margin-bottom: 15px;
+}
+
+.continue
+{
+background-color: rgb(53, 123, 152);
+color: rgb(254, 254, 254);
+border: none;
+border-radius: 35px;
+font-size: 12px;
+margin-left: 80px;
+padding-left: 90px;
+padding-right: 90px;
+padding-top: 13px;
+padding-bottom: 13px;
+}
+
+.login
+{
+font-size: 13px;
+margin-left:105px ;
+margin-top: 20px;
+color: rgb(53, 53, 53);
+}
+
+.log-in
+{
+color: rgb(255, 156, 26);
+text-decoration: underline;
+cursor: pointer;
+
+}
+.display-grid
+{
+display: grid;
+grid-template-columns: 1fr 1fr;
+
+}
+
+.lefthand-div
+{
+padding-right: 120px;
+}
+
+.image-div
+{
+background-image: url(images/image.png);
+background-repeat: no-repeat;
+background-size: contain;
+border-bottom-left-radius: 200px;
+height: 800px;
+
+
+}
+
+.playstore-icon
+{
+width: 100px;
+border-radius: 5px;
+padding-right: 20px;
+}
+
+.apple-icon
+{
+width: 98px;
+border-radius: 5px;
+}
+
+.fb
+{
+width: 25px;
+padding-right: 15px;
+}
+
+.twt
+{
+width: 25px;
+padding-right: 15px;
+}
+
+.ig
+{
+width: 25px;
+padding-right: 15px;
+}
+
+.ytb
+{
+width: 25px;
+}
+
+.welcome
+{
+padding-top: 50px;
+padding-left: 200px;
+font-size: 27px;
+color: #fefefe;
+font-weight: 400;
+}
+
+.intro
+{
+padding-left: 220px;
+color: #fefefe;
+font-size: 11px;
+padding-bottom: 550px;
+}
+
+.bigger-icons
+{
+padding-left: 180px;
+padding-bottom: 15px;
+}
+
+.smaller-icons
+{
+padding-left: 200px;
+}
